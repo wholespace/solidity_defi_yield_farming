@@ -88,7 +88,7 @@ Here is the application software architecture work-flow:
 
       truffle exec scripts/issue-tokens.js
 
-Demo of the DApp with the screenshots can be found on [this wiki page](https://github.com/ahmetozlu/defi_yield_farming/wiki/Demo-of-the-DApp).
+Demo of the DApp with the screenshots can be found on [this wiki page](https://github.com/wholespace/solidity_defi_yield_farming/wiki/Demo-of-the-DApp).
 
 ## Citation
 If you use this code for your publications, please cite it as:
@@ -97,7 +97,7 @@ If you use this code for your publications, please cite it as:
         author = "Ahmet Özlü",
         title  = "DeFi Yield Farming App",
         year   = "2021",
-        url    = "https://github.com/ahmetozlu/defi_yield_farming"
+        url    = "https://github.com/wholespace/solidity_defi_yield_farming"
     }
 
 ## References
